@@ -22,12 +22,12 @@ This project was developed as part of the **AGAI-03** curriculum. It automates t
 
 ## Local Installation & Setup
 
-* **Clone your repository
-* **Set up your virtual environment
-* **Install the libraires using pip install -r requirements.txt
-* **To protect the key create a .env file with this code inside it: GEMINI_API_KEY=your_actual_api_key_here
-* **The main bulk of the project is on the file called and requires Jupyter Lab to open it: t_rahman_qa_assignment.ipynb
-* **Run the front end application though your command line interface: streamlit run app.py
+* Clone your repository
+* Set up your virtual environment
+* Install the libraires using pip install -r requirements.txt
+* To protect the key create a .env file with this code inside it: GEMINI_API_KEY=your_actual_api_key_here
+* The main bulk of the project is on the file called and requires Jupyter Lab to open it: t_rahman_qa_assignment.ipynb
+* Run the front end application though your command line interface: streamlit run app.py
 
 ## Author
-* ** Mr Timur Rahman
+* **Mr Timur Rahman**
